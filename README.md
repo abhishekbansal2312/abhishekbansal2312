@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a f
 
 - 🎓 **Senior Secondary Education**  
   De Paul School, Bilari, Moradabad (August 2019 -- August 2021)  
-  Percentage: 71.6
+  Percentage: 76.4 
 
 - 🎓 **Secondary Education**  
   De Paul School, Bilari, Moradabad (August 2017 -- August 2019)  
-  Percentage: 76.4
+  Percentage: 71.6
 
 ---
 
