@@ -154,6 +154,7 @@ I'm a passionate Full Stack Developer focused on building responsive and engagin
 ## 🏆 Awards and Achievements
 
 - 🏅 Participated in **Internal Smart Indian Hackathon 2023**
+- 🥇 Won 1st Consolation Position winner in Hackathon at Shivalik College.
 - 🥈 Secured **Silver Medal** in AKTU Zonals Kho Kho Competition
 - 🥇 **Winner** of The Styling Geek, Website Design competition at MIT
 
@@ -161,7 +162,7 @@ I'm a passionate Full Stack Developer focused on building responsive and engagin
 
 - 🌟 **Student Coordinator** of Hobbies Club - Led and organized various club activities
 - 📋 **Chief Editor** of College Newsletter - Oversaw editorial process and content curation
-- 🎨 Designed posters for 12+ events, increasing attendance by 40%
+- 🎨 Designed posters for 20+ events, increasing attendance by 40%
 
 ## 📊 GitHub Analytics
 
