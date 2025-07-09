@@ -30,15 +30,7 @@ I'm a passionate Full Stack Developer focused on building responsive and engagin
 - 🎓 **Bachelor of Technology in Computer Science**  
   Dr. A.P.J. Abdul Kalam Technical University | *2021 - Present*  
   CGPA: 7.7
-
-- 🎓 **Senior Secondary Education**  
-  De Paul School, Bilari, Moradabad | *2019 - 2021*  
-  Percentage: 76.4
-
-- 🎓 **Secondary Education**  
-  De Paul School, Bilari, Moradabad | *2017 - 2019*  
-  Percentage: 71.8
-
+  
 ## 💼 Professional Experience
 
 ### Web Developer Intern | Explorin.io
