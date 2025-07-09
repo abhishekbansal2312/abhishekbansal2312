@@ -174,6 +174,8 @@ I'm a passionate Full Stack Developer focused on building responsive and engagin
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbansal2312&theme=tokyonight" alt="abhishekbansal2312's streak" />
 </div>
 
+<img src="https://raw.githubusercontent.com/abhishekbansal2312/abhishekbansal2312/output/snake.svg" alt="Snake animation" />
+
 ## 📫 Connect with Me
 
 <div align="center">
