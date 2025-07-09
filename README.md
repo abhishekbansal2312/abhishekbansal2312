@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer focused on building responsive and engagin
 ## 🧑‍🎓 Education
 
 - 🎓 **Bachelor of Technology in Computer Science**  
-  Dr. A.P.J. Abdul Kalam Technical University | *2021 - Present*  
+  Dr. A.P.J. Abdul Kalam Technical University | *2021 - 2025*  
   CGPA: 7.7
   
 ## 💼 Professional Experience
